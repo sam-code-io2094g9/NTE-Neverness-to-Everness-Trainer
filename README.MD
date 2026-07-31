@@ -132,7 +132,7 @@ Powerful • Safe • Fast • Free
 
 # 📸 Preview
 
-> Add screenshots here
+ <img src="assets/example.png" width="75%"
 
 ---
 
