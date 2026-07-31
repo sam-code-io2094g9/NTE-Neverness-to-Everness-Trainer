@@ -1,5 +1,5 @@
 <h1 align="center">
-🎮 NTE Neverness to Everness Trainer
+🎮 NTE: Neverness to Everness Trainer
 </h1>
 
 <p align="center">
@@ -132,7 +132,7 @@ Powerful • Safe • Fast • Free
 
 # 📸 Preview
 
- <img src="assets/example.png" width="75%"
+ <img src="assets/example.png" width="75%">
 
 ---
 
