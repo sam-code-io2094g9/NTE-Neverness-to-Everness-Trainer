@@ -26,14 +26,6 @@ Powerful • Safe • Fast • Free
 <img src="https://img.shields.io/github/stars/sam-code-io2094g9/NTE-Neverness-to-Everness-Trainer?style=for-the-badge&color=ffb300">
 </a>
 
-<a href="../../issues">
-<img src="https://img.shields.io/github/issues/sam-code-io2094g9/NTE-Neverness-to-Everness-Trainer?style=for-the-badge">
-</a>
-
-<a href="../../blob/main/LICENSE">
-<img src="https://img.shields.io/github/license/sam-code-io2094g9/NTE-Neverness-to-Everness-Trainer?style=for-the-badge&color=2ecc71">
-</a>
-
 </p>
 
 ---
