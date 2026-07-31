@@ -1,5 +1,7 @@
 <p align="center">
-<img src="https://imgur.com/GrmPpW6" width="100%">
+  <a href="https://github.com/USERNAME/REPOSITORY/releases/latest/download/NTE.Trainer.zip">
+    <img src="assets/banner.png" width="100%" alt="Click to download NTE Trainer">
+  </a>
 </p>
 
 <h1 align="center">
