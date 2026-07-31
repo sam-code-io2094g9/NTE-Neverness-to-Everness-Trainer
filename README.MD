@@ -1,12 +1,12 @@
+<h1 align="center">
+🎮 NTE Neverness to Everness Trainer
+</h1>
+
 <p align="center">
   <a href="https://github.com/USERNAME/REPOSITORY/releases/latest/download/NTE.Trainer.zip">
     <img src="assets/nte.png" width="100%" alt="Click to download NTE Trainer">
   </a>
 </p>
-
-<h1 align="center">
-🎮 NTE Neverness to Everness Trainer
-</h1>
 
 <p align="center">
 
